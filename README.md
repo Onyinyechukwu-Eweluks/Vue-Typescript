@@ -3,3 +3,4 @@
 ### Stack
 - Vue
 - typescript
+- Nuxt
