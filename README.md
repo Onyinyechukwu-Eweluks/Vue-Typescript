@@ -4,3 +4,4 @@
 - Vue
 - typescript
 - Nuxt
+- Vuex
